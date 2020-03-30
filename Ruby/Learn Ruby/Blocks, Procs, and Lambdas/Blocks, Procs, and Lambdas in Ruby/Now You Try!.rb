@@ -8,3 +8,14 @@
 # ==> true
 
 # in the solution we will create a Lambda Symbol filter that takes 
+
+# Solution Code
+my_array = ["raindrops", :kettles, "whiskers", :mittens, :packages]
+
+# Add your code below!
+symbol_filter = lambda {|x| x.is_a? Symbol}
+symbols = my_array.select(&symbol_filter)
+
+my_array = ["raindrops", :kettles, "whiskers", :mittens, :packages]
+
+puts symbols
