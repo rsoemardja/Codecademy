@@ -3,10 +3,14 @@
     "",
     "\\Ruby",
     "\\Ruby\\Learn Ruby",
-    "\\Ruby\\Learn Ruby\\Arrays and Hashes",
-    "\\Ruby\\Learn Ruby\\Arrays and Hashes\\Create a Histogram",
-    "\\Ruby\\Learn Ruby\\Arrays and Hashes\\Data Structures"
+    "\\Ruby\\Learn Ruby\\Object-Oriented Programming, Part I",
+    "\\Ruby\\Learn Ruby\\Object-Oriented Programming, Part II",
+    "\\Ruby\\Learn Ruby\\Object-Oriented Programming, Part II\\Object-Oriented Programming, Part II in Ruby",
+    "\\Ruby\\Learn Ruby\\Object-Oriented Programming, Part I\\Virtual Computer",
+    "\\Ruby\\Learn Ruby\\Refactoring",
+    "\\Ruby\\Learn Ruby\\Refactoring\\The Refactor Factory",
+    "\\Ruby\\Learn Ruby\\Refactoring\\The Zen of Ruby"
   ],
-  "SelectedNode": "\\Ruby\\Learn Ruby\\Arrays and Hashes\\Create a Histogram\\You Did It!.rb",
+  "SelectedNode": "\\Ruby\\Learn Ruby\\Object-Oriented Programming, Part II\\Object-Oriented Programming, Part II in Ruby\\Need-to-Know Basis.rb",
   "PreviewInSolutionExplorer": false
 }
