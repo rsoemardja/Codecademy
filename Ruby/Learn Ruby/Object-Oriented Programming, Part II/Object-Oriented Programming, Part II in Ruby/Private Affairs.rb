@@ -1,48 +1,28 @@
-# Now we will be covering private methods
-
-# Sample public and private
-class ClassName
-  # Some class stuff
-
-  public
-  # Public methods go here
-  def public_method; end
-
-  private
-  # Private methods go here
-  def private_method; end
-end
+# here we will Cover more private methods
 
 # Previous Solution
-class Dog
-  def initialize(name, breed)
-    @name = name
-    @breed = breed
-  end
-  
+class Application
+  attr_accessor :status
+  def initialize; end
+  # Add your method here!
   public
-  def bark
-    puts "Woof!"
-  end  
+  def print_status
+    puts "All systems go!"
+  end
 end
 
-# New Solution
-class Dog
-  def initialize(name, breed)
-    @name = name
-    @breed = breed
-  end
-  
-  # public method
+# Current Solution
+# Below out public method we will add a prvate method called password that returns the password
+class Application
+  attr_accessor :status
+  def initialize; end
   public
-  def bark
-    puts "Woof!"
-  end  
-end
-
-  # private method
-  private
-  def id
-    @id_number = 12345
-  end 
+  def print_status
+    puts "All systems go!"
+  end
+  # Add your method here!
+  private  
+    def password
+        return 12345
+    end 
 end
