@@ -1,16 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Ruby",
-    "\\Ruby\\Learn Ruby",
-    "\\Ruby\\Learn Ruby\\Object-Oriented Programming, Part I",
-    "\\Ruby\\Learn Ruby\\Object-Oriented Programming, Part II",
-    "\\Ruby\\Learn Ruby\\Object-Oriented Programming, Part II\\Banking on Ruby",
-    "\\Ruby\\Learn Ruby\\Object-Oriented Programming, Part I\\Virtual Computer",
-    "\\Ruby\\Learn Ruby\\Refactoring",
-    "\\Ruby\\Learn Ruby\\Refactoring\\The Refactor Factory",
-    "\\Ruby\\Learn Ruby\\Refactoring\\The Zen of Ruby"
+    "\\Phaser",
+    "\\Phaser\\Game Development with Phaser.JS",
+    "\\Phaser\\Game Development with Phaser.JS\\Learn Phaser Basics"
   ],
-  "SelectedNode": "\\Ruby\\Learn Ruby\\Object-Oriented Programming, Part II\\Banking on Ruby\\Opening an Account.rb",
+  "SelectedNode": "\\Phaser\\Game Development with Phaser.JS\\Learn Phaser Basics\\06 Start Making A Scene.js",
   "PreviewInSolutionExplorer": false
 }
