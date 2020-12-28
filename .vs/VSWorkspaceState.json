@@ -1,10 +1,11 @@
 {
   "ExpandedNodes": [
     "",
+    "\\CPlusPlus",
+    "\\CPlusPlus\\02 Compile and Execute",
     "\\Phaser",
-    "\\Phaser\\Game Development with Phaser.JS",
-    "\\Phaser\\Game Development with Phaser.JS\\Learn Phaser Basics"
+    "\\Phaser\\Game Development with Phaser.JS"
   ],
-  "SelectedNode": "\\Phaser\\Game Development with Phaser.JS\\Learn Phaser Basics\\06 Start Making A Scene.js",
+  "SelectedNode": "\\CPlusPlus\\02 Compile and Execute\\Intro",
   "PreviewInSolutionExplorer": false
 }
